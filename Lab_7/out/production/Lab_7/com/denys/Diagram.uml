@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="619.5" y="212.0">com.denys.Proposal_1</node>
+    <node x="262.4" y="1483.0">com.denys.MyCollection.ListItr</node>
+    <node x="254.0" y="962.0">com.denys.MyCollection.SubList</node>
+    <node x="890.5" y="0.0">com.denys.MyException</node>
+    <node x="619.5" y="0.0">com.denys.Proposals</node>
+    <node x="0.0" y="1105.5">com.denys.MyCollection.Itr</node>
+    <node x="919.5" y="99.0">com.denys.Main</node>
+    <node x="241.55000000000004" y="0.0">com.denys.MyCollection</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.denys.MyCollection.ListItr" target="com.denys.MyCollection">
+      <point x="46.5" y="-92.0" />
+      <point x="401.9" y="1458.0" />
+      <point x="568.5" y="1458.0" />
+      <point x="568.5" y="937.0" />
+      <point x="521.55" y="937.0" />
+      <point x="119.99999999999994" y="456.0" />
+    </edge>
+    <edge source="com.denys.MyCollection.SubList" target="com.denys.MyCollection">
+      <point x="76.0" y="-235.5" />
+      <point x="482.0" y="937.0" />
+      <point x="441.55000000000007" y="937.0" />
+      <point x="40.0" y="456.0" />
+    </edge>
+    <edge source="com.denys.MyCollection.Itr" target="com.denys.MyCollection">
+      <point x="0.0" y="-92.0" />
+      <point x="117.0" y="937.0" />
+      <point x="281.55000000000007" y="937.0" />
+      <point x="-120.0" y="456.0" />
+    </edge>
+    <edge source="com.denys.MyCollection.ListItr" target="com.denys.MyCollection.Itr">
+      <point x="-46.5" y="-92.0" />
+      <point x="308.9" y="1458.0" />
+      <point x="117.0" y="1458.0" />
+      <point x="0.0" y="92.0" />
+    </edge>
+    <edge source="com.denys.Proposal_1" target="com.denys.Proposals">
+      <point x="0.0" y="-104.0" />
+      <point x="0.0" y="81.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="781.5" y="180.0" />
+  <SelectedNodes>
+    <node>com.denys.Main</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
