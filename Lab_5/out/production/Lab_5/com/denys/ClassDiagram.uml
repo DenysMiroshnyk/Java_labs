@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="212.0">com.denys.Proposal_3</node>
+    <node x="492.0" y="212.0">com.denys.Proposal_1</node>
+    <node x="246.0" y="212.0">com.denys.Proposal_2</node>
+    <node x="246.0" y="0.0">com.denys.Proposals</node>
+    <node x="308.0" y="465.0">com.denys.Main</node>
+    <node x="0.0" y="465.0">com.denys.ClientsDeposits</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.denys.Proposal_3" target="com.denys.Proposals">
+      <point x="0.0" y="-104.0" />
+      <point x="113.0" y="187.0" />
+      <point x="283.66666666666663" y="187.0" />
+      <point x="-75.33333333333337" y="81.0" />
+    </edge>
+    <edge source="com.denys.Proposal_2" target="com.denys.Proposals">
+      <point x="0.0" y="-104.0" />
+      <point x="0.0" y="81.0" />
+    </edge>
+    <edge source="com.denys.Proposal_1" target="com.denys.Proposals">
+      <point x="0.0" y="-104.0" />
+      <point x="605.0" y="187.0" />
+      <point x="434.33333333333326" y="187.0" />
+      <point x="75.33333333333326" y="81.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="561.0" y="422.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Constructors</Category>
+    <Category>Properties</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
