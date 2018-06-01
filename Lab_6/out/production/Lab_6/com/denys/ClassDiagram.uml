@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="365.0" y="211.0">com.denys.Proposal_1</node>
+    <node x="365.0" y="0.0">com.denys.Proposals</node>
+    <node x="653.0" y="0.0">com.denys.Main</node>
+    <node x="0.0" y="0.0">com.denys.MyCollection</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.denys.Proposal_1" target="com.denys.Proposals">
+      <point x="0.0" y="-114.0" />
+      <point x="0.0" y="80.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="366.5" y="263.0" />
+  <SelectedNodes>
+    <node>com.denys.Proposal_1</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
